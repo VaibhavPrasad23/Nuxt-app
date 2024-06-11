@@ -47,19 +47,6 @@ New User? <br></br>
 <style scoped>
 
 
-section.carousel{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    width: 600px;
-    height: 300px;
-    margin-left: 90px;
-    background-color: #f9f9f9;
-    border-radius: 4px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
 .news{
     display: flex;
     flex-direction:row;
